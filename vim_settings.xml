@@ -3,8 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1516357621774">
+      <file name="/Dummy.txt" timestamp="1516359690640">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1516347349741">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1516358788604">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/Input/Input.tsx" timestamp="1516356448386">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="137" column="4" />
+        <mark key="^" line="137" column="4" />
+        <mark key="." line="137" column="4" />
+      </file>
+      <file name="/AuthenticationFlowSaga.ts" timestamp="1516349423332">
+        <mark key="[" line="119" column="2" />
+        <mark key="]" line="119" column="28" />
+      </file>
+      <file name="/AuthenticationFlowSaga.spec.ts" timestamp="1516349653106">
+        <mark key="[" line="287" column="6" />
+        <mark key="]" line="295" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/layouts/Authentication/AuthenticationLayout.tsx" timestamp="1516355868232">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.component.tsx" timestamp="1516358973595">
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="2" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="2" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/onboarding/actions/OnboardingActions.ts" timestamp="1516347433882">
         <mark key="[" line="9" column="4" />
@@ -18,30 +50,17 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1516347349741">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/Input/Input.tsx" timestamp="1516356448386">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="137" column="4" />
-        <mark key="^" line="137" column="4" />
-        <mark key="." line="137" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.styles.ts" timestamp="1516357079457">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="49" column="19" />
-        <mark key="." line="49" column="19" />
-        <mark key="^" line="49" column="19" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.styles.ts" timestamp="1516358469211">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/sagas/AuthenticationFlowSaga.ts" timestamp="1516349502723">
         <mark key="[" line="117" column="40" />
         <mark key="]" line="117" column="39" />
         <mark key="." line="117" column="39" />
         <mark key="^" line="117" column="39" />
-      </file>
-      <file name="/AuthenticationFlowSaga.ts" timestamp="1516349423332">
-        <mark key="[" line="119" column="2" />
-        <mark key="]" line="119" column="28" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/sagas/AuthenticationFlowSaga.spec.ts" timestamp="1516349810252">
         <mark key="'" line="152" column="6" />
@@ -50,32 +69,16 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="286" column="5" />
       </file>
-      <file name="/AuthenticationFlowSaga.spec.ts" timestamp="1516349653106">
-        <mark key="[" line="287" column="6" />
-        <mark key="]" line="295" column="8" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/layouts/Authentication/AuthenticationLayout.tsx" timestamp="1516355868232">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.component.tsx" timestamp="1516357611357">
-        <mark key="[" line="17" column="60" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="152" column="6" filename="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/sagas/AuthenticationFlowSaga.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>showMessageError</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>showMessageError</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>handleIf</text>
