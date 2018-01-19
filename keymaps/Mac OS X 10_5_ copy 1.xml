@@ -2,7 +2,4 @@
   <action id="Tool_External Tools_Open in Emacs">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
-  <action id="VimInsertExitMode">
-    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
-  </action>
 </keymap>
