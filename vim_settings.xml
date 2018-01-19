@@ -1,0 +1,50 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1516347874924">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/onboarding/actions/OnboardingActions.ts" timestamp="1516347433882">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1516347349741">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/Input/Input.tsx" timestamp="1516348286613">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.component.tsx" timestamp="1516348789243">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>isSupportOnboarded</text>
+      </register>
+      <register name="-" type="4">
+        <text>isSupportOnboarded</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
