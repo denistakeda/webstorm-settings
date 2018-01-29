@@ -18,6 +18,9 @@
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/realtime/handlers/part/contentUnhighlighted.ts" timestamp="1516974766617">
+        <mark key="[" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/layouts/Authentication/AuthenticationLayout.tsx" timestamp="1516355868232">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="6" column="1" />
@@ -46,12 +49,6 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/realtime/handlers/part/contentHighlighted.ts" timestamp="1516973919170">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="42" />
-        <mark key="^" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/sagas/HighlightContentSaga.ts" timestamp="1516972501208">
         <mark key="[" line="28" column="76" />
         <mark key="]" line="20" column="101" />
@@ -64,7 +61,7 @@
         <mark key="^" line="56" column="14" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516973407678">
+      <file name="/Dummy.txt" timestamp="1517231055234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="44" />
@@ -76,7 +73,7 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1516970037799">
+      <file name="/GraphQL.result.json" timestamp="1517231053048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -103,17 +100,16 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="73" column="61" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/styles/base.scss" timestamp="1517231460534" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/onboarding/actions/OnboardingActions.ts" timestamp="1516347433882">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
         <mark key="^" line="8" column="8" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/utils/storeUpdaters/highlightContent.ts" timestamp="1516973031030">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/utils/storeUpdaters/highlightContent.ts" timestamp="1516974549589">
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ContentOptionsButton/ContentOptionsButton.container.ts" timestamp="1516971963278">
         <mark key="[" line="42" column="80" />
@@ -133,12 +129,6 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/realtime/handlers/RealtimeEventHandler.ts" timestamp="1516973929768">
-        <mark key="[" line="60" column="27" />
-        <mark key="]" line="60" column="28" />
-        <mark key="^" line="60" column="1" />
-        <mark key="." line="60" column="2" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="152" column="6" filename="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/sagas/AuthenticationFlowSaga.spec.ts" />
@@ -146,7 +136,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contentHighlightedHandler(</text>
+        <text>messagePartId, contentType, hasHighlightedContent}</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -169,40 +159,41 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hasHighlightedContent</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>handleIf</text>
       </register>
       <register name="0" type="4">
-        <text>contentHighlightedHandler(</text>
+        <text>messagePartId, contentType, hasHighlightedContent}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4KG9uYm9hcmQtc2NyZWVuKTogc2hvdyBhbiBlcnJvciB3aGVuIG11dGF0aW9uIGZhaWxzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhIScsIGV2ZW50KTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcmVuZGVySWYgZnJvbSAncmVuZGVyLWlmJzsK</text>
+      <register name="2" type="4">
+        <text>449fca85fa23&quot;
+  messageId</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSBmcm9tICcuL0ZpbGVNZXNzYWdlUGFydC5ncmFwaHFsJzsK</text>
+        <text encoding="base64">ICDigIvigIsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBJRmlsZU1lc3NhZ2VQYXJ0UGFydCwK</text>
+        <text encoding="base64">ICBlcnJvcjogbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
+        <text encoding="base64">ICDigIvigIsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBWaWV3U3R5bGUsCg==</text>
+        <text encoding="base64">ICDigIvigIsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICDigIvigIsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coJyEhISEhISEhISEhIScsIHBhcnQsIHVwZGF0ZShwYXJ0LCB7CiAgICBoYXNIaWdobGlnaHRlZENvbnRlbnQ6IHsKICAgICAgJHNldDogZGF0YS5oYXNIaWdobGlnaHRlZENvbnRlbnQsCiAgICB9LAogIH0pKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICDigIvigIsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb250ZW50SWQ6IHN0cmluZzsK</text>
+        <text encoding="base64">Zml4KG9uYm9hcmQtc2NyZWVuKTogc2hvdyBhbiBlcnJvciB3aGVuIG11dGF0aW9uIGZhaWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
