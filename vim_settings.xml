@@ -72,6 +72,10 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="9" column="4" />
       </file>
+      <file name="/CommunityBookmarks.component.tsx" timestamp="1517381768742">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/DOMComponents/DOMInput.tsx" timestamp="1516355999060">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="10" column="17" />
@@ -135,7 +139,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>messagePartId, contentType, hasHighlightedContent}</text>
+        <text>interface ITopicsLayoutMap {
+  [topicId: string]: number;
+}</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -164,7 +170,9 @@
         <text>handleIf</text>
       </register>
       <register name="0" type="4">
-        <text>messagePartId, contentType, hasHighlightedContent}</text>
+        <text>interface ITopicsLayoutMap {
+  [topicId: string]: number;
+}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhIScsIGV2ZW50KTsK</text>
