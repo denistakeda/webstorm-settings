@@ -49,10 +49,9 @@
         <mark key="^" line="89" column="37" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ContentOptionsButton/ContentOptionsButton.scss" timestamp="1517407399182">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/DOMComponents/DOMInput.tsx" timestamp="1516355999060">
         <mark key="[" line="9" column="23" />
@@ -84,7 +83,7 @@
         <mark key="^" line="56" column="14" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517407156284">
+      <file name="/Dummy.txt" timestamp="1517481996114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="44" />
@@ -96,7 +95,7 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1517380547668">
+      <file name="/GraphQL.result.json" timestamp="1517481993897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
