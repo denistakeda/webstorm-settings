@@ -95,7 +95,7 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1517481993897">
+      <file name="/GraphQL.result.json" timestamp="1517842874415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -115,12 +115,6 @@
         <mark key="]" line="270" column="17" />
         <mark key="^" line="270" column="17" />
         <mark key="." line="270" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/bookmarks/components/CommunityBookmarks/CommunityBookmarks.component.tsx" timestamp="1517406004151">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="17" column="47" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.component.tsx" timestamp="1516358973595">
         <mark key="[" line="31" column="2" />
