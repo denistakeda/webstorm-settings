@@ -18,6 +18,11 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/CreateConversationTopBar/CreateConversationTopBar.tsx" timestamp="1518158782370">
         <mark key="[" line="46" column="23" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.styles.ts" timestamp="1518516947085">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ConversationTitle/ConversationTitle.component.tsx" timestamp="1518158732330">
         <mark key="[" line="20" column="69" />
       </file>
@@ -129,17 +134,35 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/HomeScreenSubNavigationTopBar/HomeScreenSubNavigationTopBar.tsx" timestamp="1518158798602">
         <mark key="[" line="53" column="23" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/PdfPreview.component.tsx" timestamp="1518517804688">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/PdfPreview/PdfPreview.component.tsx" timestamp="1518518835620">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/UnhandledFilePreview.component.tsx" timestamp="1518518596372">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/NewConversationListItem/NewConversationListItem.component.tsx" timestamp="1518158777150">
         <mark key="[" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/WaitListScreen.tsx" timestamp="1518158863674">
         <mark key="[" line="13" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518434790416">
+      <file name="/Dummy.txt" timestamp="1518519052315">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1518514168299">
         <mark key="[" line="0" column="0" />
@@ -186,6 +209,11 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="73" column="61" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/styles/base.scss" timestamp="1518518810297">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/differ-chat/MoreMessagesBanner/MoreMessagesBanner.component.tsx" timestamp="1518158739530">
         <mark key="[" line="75" column="41" />
       </file>
@@ -208,11 +236,16 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ConversationThumbnailImage/ConversationThumbnailImage.component.tsx" timestamp="1518158790785">
         <mark key="[" line="46" column="63" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518515833343">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="20" />
-        <mark key="^" line="58" column="39" />
-        <mark key="." line="51" column="20" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/PdfPreview/PdfPreview.scss" timestamp="1518518806193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518518327039">
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="45" />
+        <mark key="." line="58" column="45" />
+        <mark key="^" line="58" column="45" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/tests/unit/setup.js" timestamp="1518158973635">
         <mark key="[" line="61" column="22" />
@@ -234,8 +267,8 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.props.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -258,7 +291,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.props.</text>
+        <text>this.props.file.preview.url</text>
       </register>
       <register name="/" type="4">
         <text>courseContent</text>
@@ -267,31 +300,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDxVbmhhbmRsZWRGaWxlUHJldmlldyBmaWxlPXtkYXRhLmZpbGVCeUlkfSBoYW5kbGVGaWxlUHJlc3NlZD17aGFuZGxlRmlsZVByZXNzZWR9Lz47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
+        <text encoding="base64">LlJlYWN0UERGX19QYWdlOm5vdCg6bGFzdC1jaGlsZCkgewogIG1hcmdpbi1ib3R0b206IDhweDsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcmVuZGVySWYgZnJvbSAncmVuZGVyLWlmJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBjb21wb3NlLCBwdXJlLCBzZXREaXNwbGF5TmFtZSB9IGZyb20gJ3JlY29tcG9zZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBjb21wb3NlLCBwdXJlLCBzZXREaXNwbGF5TmFtZSB9IGZyb20gJ3JlY29tcG9zZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgcmVuZGVySWYgZnJvbSAncmVuZGVyLWlmJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLnJlbmRlclByZXZpZXcodGhpcy5yZW5kZXJWaWRlb1ZpZXdlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIE1pbWVUeXBlcy5NcDRNaW1lVHlwZToK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzUHJldmlld0ZpbmlzaGVkOiBib29sZWFuID0gZGF0YS5maWxlQnlJZC5wcmV2aWV3ICYmIGRhdGEuZmlsZUJ5SWQucHJldmlldy5zdGF0dXMgPT09ICdGSU5JU0hFRCc7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC8qaWYgKGlzUHJldmlld0ZpbmlzaGVkKSB7CiAgICAgIHN3aXRjaCAoZGF0YS5maWxlQnlJZC5taW1lVHlwZSkgewogICAgICAgIGNhc2UgUGRmTWltZVR5cGU6CiAgICAgICAgICByZXR1cm4gPFBkZlByZXZpZXcgZmlsZT17ZGF0YS5maWxlQnlJZH0gLz47CiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgIHJldHVybiA8VW5oYW5kbGVkRmlsZVByZXZpZXcgZmlsZT17ZGF0YS5maWxlQnlJZH0gaGFuZGxlRmlsZVByZXNzZWQ9e2hhbmRsZUZpbGVQcmVzc2VkfSAvPjsKICAgICAgfQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIDxVbmhhbmRsZWRGaWxlUHJldmlldyBmaWxlPXtkYXRhLmZpbGVCeUlkfSBoYW5kbGVGaWxlUHJlc3NlZD17aGFuZGxlRmlsZVByZXNzZWR9IC8+OwogICAgfSov</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
