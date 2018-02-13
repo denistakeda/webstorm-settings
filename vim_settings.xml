@@ -141,7 +141,7 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1518446756710">
+      <file name="/GraphQL.result.json" timestamp="1518514168299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -159,11 +159,11 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/bookmarks/components/QuickAccess/QuickAccess.component.tsx" timestamp="1518158821148">
         <mark key="[" line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.graphql.ts" timestamp="1518514103449">
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="43" column="34" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="43" column="34" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.graphql.ts" timestamp="1518514993514">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="9" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="18" column="9" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/actions/ChatActions.ts" timestamp="1516971715074">
         <mark key="[" line="269" column="16" />
@@ -189,6 +189,7 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/differ-chat/MoreMessagesBanner/MoreMessagesBanner.component.tsx" timestamp="1518158739530">
         <mark key="[" line="75" column="41" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/chat/screens/ChatArtifactsPreviewScreen/ChatArtifactsPreviewScreen.tsx" timestamp="1518515576802" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/components/GradientBackgroundWithModal/GradientBackgroundWithModal.tsx" timestamp="1518158874642">
         <mark key="[" line="62" column="25" />
       </file>
@@ -207,11 +208,11 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ConversationThumbnailImage/ConversationThumbnailImage.component.tsx" timestamp="1518158790785">
         <mark key="[" line="46" column="63" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518513899354">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518515833343">
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="20" />
+        <mark key="^" line="58" column="39" />
+        <mark key="." line="51" column="20" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/tests/unit/setup.js" timestamp="1518158973635">
         <mark key="[" line="61" column="22" />
@@ -234,7 +235,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ComposedUnhandledFilePreview</text>
+        <text>this.props.</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -257,43 +258,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ComposedUnhandledFilePreview</text>
+        <text>this.props.</text>
       </register>
       <register name="/" type="4">
         <text>courseContent</text>
       </register>
-      <register name="0" type="4">
-        <text>interface ITopicsLayoutMap {
-  [topicId: string]: number;
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDxVbmhhbmRsZWRGaWxlUHJldmlldyBmaWxlPXtkYXRhLmZpbGVCeUlkfSBoYW5kbGVGaWxlUHJlc3NlZD17aGFuZGxlRmlsZVByZXNzZWR9Lz47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgc2FkRGlmZmVySWNvbjogc3RyaW5nID0gcmVxdWlyZSgnLi9pbWFnZXMvU2FkRGlmZmVyLnBuZycpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJVG9waWNCb29rbWFya3NDb250ZW50TGluaywK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBJVG9waWNCb29rbWFya3NDb250ZW50RmlsZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdXBkYXRlIGZyb20gJ2ltbXV0YWJpbGl0eS1oZWxwZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucmVuZGVyUHJldmlldyhub1ByZXZpZXdBdmFpbGFibGVSZW5kZXJlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJVG9waWNCb29rbWFya3NDb250ZW50TGluaywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBJVG9waWNCb29rbWFya3NDb250ZW50RmlsZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmltcG9ydCB7CiAgZ2V0Q29tbXVuaXR5QnlJZFF1ZXJ5LAogIElDb21tdW5pdHlCb29rbWFya3NDb21tdW5pdHksCiAgSUdldENvbW11bml0eUJ5SWRRdWVyeVJlc3VsdCwKfSBmcm9tICcuL0NvbW11bml0eUJvb2ttYXJrcy5ncmFwaHFsJzsKaW1wb3J0IGFwb2xsb0NsaWVudCBmcm9tICcuLi8uLi8uLi8uLi9hcG9sbG8vYXBvbGxvLWNsaWVudCc7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLnJlbmRlclByZXZpZXcodGhpcy5yZW5kZXJWaWRlb1ZpZXdlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhIScsIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlIE1pbWVUeXBlcy5NcDRNaW1lVHlwZToK</text>
       </register>
-      <register name="9" type="4">
-        <text>449fca85fa23&quot;
-  messageId</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzUHJldmlld0ZpbmlzaGVkOiBib29sZWFuID0gZGF0YS5maWxlQnlJZC5wcmV2aWV3ICYmIGRhdGEuZmlsZUJ5SWQucHJldmlldy5zdGF0dXMgPT09ICdGSU5JU0hFRCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
