@@ -153,7 +153,7 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/WaitListScreen.tsx" timestamp="1518158863674">
         <mark key="[" line="13" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518519052315">
+      <file name="/Dummy.txt" timestamp="1518534103679">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="44" />
@@ -236,11 +236,11 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518518327039">
-        <mark key="[" line="58" column="39" />
-        <mark key="]" line="58" column="45" />
-        <mark key="." line="58" column="45" />
-        <mark key="^" line="58" column="45" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518534098229">
+        <mark key="[" line="11" column="72" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/tests/unit/setup.js" timestamp="1518158973635">
         <mark key="[" line="61" column="22" />
