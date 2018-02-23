@@ -153,7 +153,7 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/WaitListScreen.tsx" timestamp="1518158863674">
         <mark key="[" line="13" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519382959908">
+      <file name="/Dummy.txt" timestamp="1519383952724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="44" />
@@ -235,6 +235,12 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/screens/CreateConversationScreen.container.tsx" timestamp="1519383938344">
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="24" column="58" />
+        <mark key="^" line="24" column="59" />
+        <mark key="." line="24" column="58" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518534098229">
         <mark key="[" line="11" column="72" />
         <mark key="]" line="12" column="27" />
@@ -261,8 +267,8 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -285,10 +291,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.props.file.preview.url</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>courseContent</text>
+        <text>apolloqueryresult</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDxVbmhhbmRsZWRGaWxlUHJldmlldyBmaWxlPXtkYXRhLmZpbGVCeUlkfSBoYW5kbGVGaWxlUHJlc3NlZD17aGFuZGxlRmlsZVByZXNzZWR9Lz47Cg==</text>
@@ -325,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>courseContent</last-search>
+      <last-search>apolloqueryresult</last-search>
       <last-offset />
-      <last-pattern>courseContent</last-pattern>
+      <last-pattern>apolloqueryresult</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -335,6 +341,7 @@
       <history-search>
         <entry>handleIf</entry>
         <entry>courseContent</entry>
+        <entry>apolloqueryresult</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
