@@ -159,13 +159,13 @@
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/WaitListScreen.tsx" timestamp="1518158863674">
         <mark key="[" line="13" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519814555828">
+      <file name="/Dummy.txt" timestamp="1519896891563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1519657970690">
+      <file name="/GraphQL.result.json" timestamp="1519896775786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -255,7 +255,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/Popover/Popover.tsx" timestamp="1519814591476" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518534098229">
         <mark key="[" line="11" column="72" />
         <mark key="]" line="12" column="27" />
