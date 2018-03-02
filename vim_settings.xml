@@ -10,23 +10,11 @@
         <mark key="^" line="55" column="29" />
         <mark key="." line="55" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1517406118278">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/realtime/handlers/part/contentUnhighlighted.ts" timestamp="1516974766617">
-        <mark key="[" line="0" column="25" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/layouts/Authentication/AuthenticationLayout.tsx" timestamp="1516355868232">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="6" column="1" />
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/CreateConversationTopBar/CreateConversationTopBar.tsx" timestamp="1518158782370">
-        <mark key="[" line="46" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ConversationTitle/ConversationTitle.component.tsx" timestamp="1518158732330">
-        <mark key="[" line="20" column="69" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.styles.ts" timestamp="1516358469211">
         <mark key="[" line="8" column="14" />
@@ -40,11 +28,11 @@
         <mark key="^" line="28" column="60" />
         <mark key="." line="28" column="60" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.scss" timestamp="1519989341644">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.scss" timestamp="1519990364067">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/FileMessagePart/FileMessagePart.component.tsx" timestamp="1516973244459">
         <mark key="[" line="6" column="0" />
@@ -58,13 +46,23 @@
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.component.tsx" timestamp="1519989235914">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.graphql.ts" timestamp="1519992361009">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/system/routing/components/MainNavigation/MainNavigation.component.tsx" timestamp="1518158806175">
-        <mark key="[" line="10" column="46" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.component.tsx" timestamp="1519994090589">
+        <mark key="[" line="20" column="80" />
+        <mark key="]" line="5" column="114" />
+        <mark key="." line="5" column="114" />
+        <mark key="^" line="5" column="114" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.component.tsx" timestamp="1519994023667">
+        <mark key="[" line="9" column="80" />
+        <mark key="]" line="9" column="113" />
+        <mark key="^" line="9" column="113" />
+        <mark key="." line="9" column="113" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/FileMessagePart/FileMessagePart.graphql.ts" timestamp="1516972263426">
         <mark key="[" line="62" column="25" />
@@ -72,23 +70,11 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="25" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/VoidPreview.component.tsx" timestamp="1518513787250">
-        <mark key="[" line="37" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/FileTypeIcon/resolveMimeTypeToFileIconSource.ts" timestamp="1518158703710">
-        <mark key="[" line="12" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/ModalBackButton/ModalBackButton.tsx" timestamp="1518158906053">
-        <mark key="[" line="29" column="40" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/onboarding/actions/OnboardingActions.ts" timestamp="1516347433882">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
         <mark key="^" line="8" column="8" />
         <mark key="." line="9" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/OneWayChatInputFooter/OneWayChatInputFooter.tsx" timestamp="1518158770006">
-        <mark key="[" line="32" column="54" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.container.ts" timestamp="1519985366214">
         <mark key="[" line="11" column="74" />
@@ -108,9 +94,6 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/CreateConversation/CreateConversation.component.tsx" timestamp="1518158750813">
-        <mark key="[" line="13" column="42" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/Input/Input.tsx" timestamp="1516356448386">
         <mark key="[" line="60" column="12" />
         <mark key="]" line="137" column="4" />
@@ -129,14 +112,23 @@
         <mark key="." line="143" column="24" />
         <mark key="^" line="143" column="24" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.graphql.ts" timestamp="1519984615417">
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="26" column="58" />
-        <mark key="^" line="26" column="58" />
-        <mark key="." line="26" column="58" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationListItem/ConversationListItem.component.tsx" timestamp="1519993991340">
+        <mark key="[" line="2" column="91" />
+        <mark key="]" line="2" column="94" />
+        <mark key="." line="2" column="94" />
+        <mark key="^" line="2" column="94" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ConversationDetails/ConversationDetails.component.tsx" timestamp="1518158760826">
-        <mark key="[" line="128" column="19" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.container.ts" timestamp="1519994011467">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.graphql.ts" timestamp="1519994063364">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/bookmarks/components/BookmarkFile/BookmarkFile.component.tsx" timestamp="1518158826538">
         <mark key="[" line="32" column="35" />
@@ -150,26 +142,17 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/styles/index.scss" timestamp="1519986216180">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/styles/index.scss" timestamp="1519992519064">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="4" column="70" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="4" column="70" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.component.tsx" timestamp="1516972092284">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="19" />
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/communities/components/CommunitiesOverview/components/TopicOverviewListItem/TopicOverviewListItem.component.tsx" timestamp="1518158848081">
-        <mark key="[" line="9" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/SupportButton/SupportButton.tsx" timestamp="1518158890572">
-        <mark key="[" line="73" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/HomeScreenSubNavigationTopBar/HomeScreenSubNavigationTopBar.tsx" timestamp="1518158798602">
-        <mark key="[" line="53" column="23" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/PdfPreview.component.tsx" timestamp="1518517804688">
         <mark key="[" line="34" column="24" />
@@ -189,20 +172,23 @@
         <mark key="^" line="25" column="20" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/NewConversationListItem/NewConversationListItem.component.tsx" timestamp="1518158777150">
-        <mark key="[" line="8" column="45" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/styles/variables.scss" timestamp="1519990306273">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/WaitListScreen.tsx" timestamp="1518158863674">
-        <mark key="[" line="13" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1519985477840">
+      <file name="/Dummy.txt" timestamp="1519994291082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1519981250336">
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.scss" timestamp="1519992714626">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
         <mark key="[" line="11" column="0" />
@@ -216,9 +202,6 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/bookmarks/components/QuickAccess/QuickAccess.component.tsx" timestamp="1518158821148">
-        <mark key="[" line="7" column="45" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.graphql.ts" timestamp="1518514993514">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="9" />
@@ -231,14 +214,18 @@
         <mark key="^" line="270" column="17" />
         <mark key="." line="270" column="17" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/Button/IntercomButton/IntercomButton.tsx" timestamp="1518158882686">
-        <mark key="[" line="28" column="21" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/screens/OnboardScreen/OnboardScreen.component.tsx" timestamp="1516358973595">
         <mark key="[" line="31" column="2" />
         <mark key="]" line="31" column="2" />
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/node_modules/@edtechfoundry/differ-client-common/getConversationTitle.d.ts" timestamp="1519993969088" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationListItem/ConversationListItem.container.ts" timestamp="1519993932332">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/actions/ChatActionDispatchers.ts" timestamp="1516971763947">
         <mark key="[" line="73" column="61" />
@@ -252,14 +239,17 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/differ-chat/MoreMessagesBanner/MoreMessagesBanner.component.tsx" timestamp="1518158739530">
-        <mark key="[" line="75" column="41" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/tsconfig.json" timestamp="1519984974098">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="36" />
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationListItem/ConversationListItem.graphql.ts" timestamp="1519993885452">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="36" column="50" />
+        <mark key="." line="36" column="50" />
+        <mark key="^" line="36" column="50" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/system/routing/RouteAPI.tsx" timestamp="1519983584310">
         <mark key="[" line="28" column="36" />
@@ -267,48 +257,24 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/components/GradientBackgroundWithModal/GradientBackgroundWithModal.tsx" timestamp="1518158874642">
-        <mark key="[" line="62" column="25" />
-      </file>
-      <file name="/Routes.tsx" timestamp="1519983127214">
-        <mark key="'" line="87" column="42" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/utils/storeUpdaters/insertReaction.ts" timestamp="1519723858961">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="46" />
-      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ContentOptionsButton/ContentOptionsButton.container.ts" timestamp="1517388754275">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
         <mark key="^" line="43" column="100" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/sagas/AuthenticationFlowSaga.ts" timestamp="1519983968664">
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/sagas/AuthenticationFlowSaga.ts" timestamp="1519994285548">
         <mark key="'" line="111" column="17" />
-        <mark key="[" line="128" column="10" />
-        <mark key="]" line="129" column="21" />
-        <mark key="." line="129" column="21" />
+        <mark key="[" line="129" column="7" />
+        <mark key="]" line="129" column="8" />
+        <mark key="." line="129" column="8" />
         <mark key="^" line="129" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ConversationThumbnailImage/ConversationThumbnailImage.component.tsx" timestamp="1518158790785">
-        <mark key="[" line="46" column="63" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/PdfPreview/PdfPreview.scss" timestamp="1518518806193">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/screens/CreateConversationScreen.container.tsx" timestamp="1519383938344">
         <mark key="[" line="24" column="58" />
         <mark key="]" line="24" column="58" />
         <mark key="^" line="24" column="59" />
         <mark key="." line="24" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/utils/messagePartFactory.ts" timestamp="1519659360626">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/FilePreview.component.tsx" timestamp="1518534098229">
         <mark key="[" line="11" column="72" />
@@ -321,6 +287,12 @@
         <mark key="]" line="61" column="22" />
         <mark key="^" line="61" column="22" />
         <mark key="." line="61" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationListItem/ConversationListItem.scss" timestamp="1519993225839">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -339,8 +311,8 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -363,7 +335,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>component</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>NavigateTo.ho</text>
@@ -372,31 +344,31 @@
         <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPXtMT0dJTl9VUkx9IGNvbXBvbmVudD17TG9naW5TY3JlZW59IC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPENvbnZlcnNhdGlvbnNMaXN0IGNvbnZlcnNhdGlvbnM9e3Byb3BzLmRhdGEuY29udmVyc2F0aW9uc30gLz4K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPENvbnZlcnNhdGlvbkRldGFpbHMKICAgICAgICBjb252ZXJzYXRpb25JZD17cHJvcHMubWF0Y2gucGFyYW1zLmNvbnZlcnNhdGlvbklkfS8+Cg==</text>
+        <text encoding="base64">ICAgIHtyZW5kZXJJZihwcm9wcy5kYXRhLmNvbnZlcnNhdGlvbnMpKCgpID0+ICgKICAgICAgCiAgICApKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPENvbnZlcnNhdGlvbkRldGFpbHNDb21wb25lbnQgb25TZW5kTWVzc2FnZT17fSByZW5kZXJDaGF0Um93PXt9IGNvbnZlcnNhdGlvbklucHV0U3RhdGU9e30gc29ydGVkTWVzc2FnZXM9e30gaXNBZG1pbj17fSBpc1RlYWNoZXI9e30gY29udmVyc2F0aW9uSWQ9e30gZGF0YT17fSBjaGF0SW5wdXRTdGF0ZT17fSBuZXR3b3JrT25saW5lPXt9Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSBmcm9tICdAbmV3LWFwcC9zY3JlZW5zL0hvbWVTY3JlZW4vSG9tZVNjcmVlbi5ncmFwaHFsJzsK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJIb21lU2NyZWVuX2xlZnRQYW5lbCI+CiAgICAgIDxDb252ZXJzYXRpb25zTGlzdCBjb252ZXJzYXRpb25zPXtwcm9wcy5kYXRhLmNvbnZlcnNhdGlvbnN9IC8+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBob21lU2NyZWVuUXVlcnksCg==</text>
+        <text encoding="base64">ICBuYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJSG9tZVNjcmVlblF1ZXJ5UmVzdWx0LAo=</text>
+        <text encoding="base64">aW1wb3J0IHtmcmFnbWVudHMgYXMgY29udmVyc2F0aW9uc0xpc3RGcmFnbWVudHN9IGZyb20gJ0Bjb21wb25lbnRzL0NvbnZlcnNhdGlvbnNMaXN0L0NvbnZlcnNhdGlvbnNMaXN0LmNvbnRhaW5lcic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoTmF2aWdhdGVUby5ob21lKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJRnJhZ21lbnRzIHsKICBjb252ZXJzYXRpbwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
