@@ -40,11 +40,11 @@
         <mark key="^" line="28" column="60" />
         <mark key="." line="28" column="60" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.scss" timestamp="1519985901771">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.scss" timestamp="1519989341644">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/FileMessagePart/FileMessagePart.component.tsx" timestamp="1516973244459">
         <mark key="[" line="6" column="0" />
@@ -58,11 +58,10 @@
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.component.tsx" timestamp="1519986174185">
-        <mark key="[" line="3" column="82" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/screens/HomeScreen/HomeScreen.component.tsx" timestamp="1519989235914">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/system/routing/components/MainNavigation/MainNavigation.component.tsx" timestamp="1518158806175">
         <mark key="[" line="10" column="46" />
@@ -340,8 +339,8 @@
           <key char="65535" code="40" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -364,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>component</text>
       </register>
       <register name="/" type="4">
         <text>NavigateTo.ho</text>
@@ -373,31 +372,31 @@
         <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPXtMT0dJTl9VUkx9IGNvbXBvbmVudD17TG9naW5TY3JlZW59IC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSBmcm9tICdAbmV3LWFwcC9zY3JlZW5zL0hvbWVTY3JlZW4vSG9tZVNjcmVlbi5ncmFwaHFsJzsK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBob21lU2NyZWVuUXVlcnksCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBJSG9tZVNjcmVlblF1ZXJ5UmVzdWx0LAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoTmF2aWdhdGVUby5ob21lKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPXtMT0dJTl9VUkx9IGNvbXBvbmVudD17TG9naW5TY3JlZW59IC8+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPXtST09UX1VSTH0gZXhhY3QgcmVuZGVyPXsoKSA9PiA8QXV0aFJlZGlyZWN0IGlzTG9nZ2VkSW49e3Byb3BzLmlzTG9nZ2VkSW59IC8+fSAvPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPENvbnZlcnNhdGlvbkRldGFpbHMKICAgICAgICBjb252ZXJzYXRpb25JZD17cHJvcHMubWF0Y2gucGFyYW1zLmNvbnZlcnNhdGlvbklkfS8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPENvbnZlcnNhdGlvbkRldGFpbHNDb21wb25lbnQgb25TZW5kTWVzc2FnZT17fSByZW5kZXJDaGF0Um93PXt9IGNvbnZlcnNhdGlvbklucHV0U3RhdGU9e30gc29ydGVkTWVzc2FnZXM9e30gaXNBZG1pbj17fSBpc1RlYWNoZXI9e30gY29udmVyc2F0aW9uSWQ9e30gZGF0YT17fSBjaGF0SW5wdXRTdGF0ZT17fSBuZXR3b3JrT25saW5lPXt9Lz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fSBmcm9tICdAbmV3LWFwcC9zY3JlZW5zL0hvbWVTY3JlZW4vSG9tZVNjcmVlbi5ncmFwaHFsJzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBob21lU2NyZWVuUXVlcnksCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBJSG9tZVNjcmVlblF1ZXJ5UmVzdWx0LAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoTmF2aWdhdGVUby5ob21lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,6 +436,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
