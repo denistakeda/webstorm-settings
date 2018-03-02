@@ -58,11 +58,17 @@
         <mark key="." line="5" column="114" />
         <mark key="^" line="5" column="114" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.component.tsx" timestamp="1519994023667">
-        <mark key="[" line="9" column="80" />
-        <mark key="]" line="9" column="113" />
-        <mark key="^" line="9" column="113" />
-        <mark key="." line="9" column="113" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.component.tsx" timestamp="1519995799201">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/public/index.html" timestamp="1519995725454">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="87" />
+        <mark key="." line="5" column="87" />
+        <mark key="^" line="5" column="87" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/FileMessagePart/FileMessagePart.graphql.ts" timestamp="1516972263426">
         <mark key="[" line="62" column="25" />
@@ -112,11 +118,11 @@
         <mark key="." line="143" column="24" />
         <mark key="^" line="143" column="24" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationListItem/ConversationListItem.component.tsx" timestamp="1519993991340">
-        <mark key="[" line="2" column="91" />
-        <mark key="]" line="2" column="94" />
-        <mark key="." line="2" column="94" />
-        <mark key="^" line="2" column="94" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationListItem/ConversationListItem.component.tsx" timestamp="1519995388160">
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="69" />
+        <mark key="^" line="9" column="93" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.container.ts" timestamp="1519994011467">
         <mark key="[" line="6" column="50" />
@@ -184,11 +190,11 @@
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.scss" timestamp="1519992714626">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationsList/ConversationsList.scss" timestamp="1519995484326">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
         <mark key="[" line="11" column="0" />
@@ -251,11 +257,11 @@
         <mark key="." line="36" column="50" />
         <mark key="^" line="36" column="50" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/system/routing/RouteAPI.tsx" timestamp="1519983584310">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="37" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/system/routing/RouteAPI.tsx" timestamp="1519995377686">
+        <mark key="[" line="121" column="30" />
+        <mark key="]" line="121" column="45" />
+        <mark key="." line="121" column="45" />
+        <mark key="^" line="121" column="45" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ContentOptionsButton/ContentOptionsButton.container.ts" timestamp="1517388754275">
         <mark key="[" line="7" column="15" />
@@ -312,7 +318,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>CHAT_DETAIL_URL</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -335,7 +341,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>CHAT_DETAIL_URL</text>
       </register>
       <register name="/" type="4">
         <text>NavigateTo.ho</text>
