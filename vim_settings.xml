@@ -10,6 +10,7 @@
         <mark key="^" line="55" column="29" />
         <mark key="." line="55" column="29" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/communities/screens/CommunitySettingsScreen/CommunitySettingsScreen.container.ts" timestamp="1520494103452" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/layouts/Authentication/AuthenticationLayout.tsx" timestamp="1516355868232">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="6" column="1" />
@@ -75,6 +76,18 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="25" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/community/screens/InviteNewMembersScreen/InviteNewMembersScreen.component.tsx" timestamp="1520494875981">
+        <mark key="[" line="50" column="22" />
+        <mark key="]" line="50" column="54" />
+        <mark key="." line="50" column="54" />
+        <mark key="^" line="50" column="54" />
+      </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/community/screens/InviteNewMembersScreen/InviteNewMembersScreen.container.tsx" timestamp="1520494381859">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/onboarding/actions/OnboardingActions.ts" timestamp="1516347433882">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -105,6 +118,7 @@
         <mark key="^" line="137" column="4" />
         <mark key="." line="137" column="4" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/community/screens/InviteNewMembersScreen/InviteNewMembersScreen.container.ts" timestamp="1520494894817" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/sagas/CreateMessageSaga.ts" timestamp="1516970373303">
         <mark key="[" line="23" column="53" />
         <mark key="]" line="23" column="59" />
@@ -201,7 +215,7 @@
         <mark key="^" line="339" column="25" />
         <mark key="." line="339" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1520489643671">
+      <file name="/GraphQL.result.json" timestamp="1520494131106">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -333,8 +347,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAnJydmYS1jYWInLCcsJwo=</text>
+      <register name="&quot;" type="4">
+        <text>IIviteNewMembersScreenInviteCode</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -357,7 +371,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CHAT_DETAIL_URL</text>
+        <text>IIviteNewMembersScreenInviteCode</text>
       </register>
       <register name="/" type="4">
         <text>NavigateTo.ho</text>
@@ -366,12 +380,24 @@
         <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPXtMT0dJTl9VUkx9IGNvbXBvbmVudD17TG9naW5TY3JlZW59IC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnJydmYS1jYWInLCcsJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBleHRlbmRzIFJvdXRlQ29tcG9uZW50UHJvcHM8eyBjb21tdW5pdHlJZDogc3RyaW5nIH0+IHt9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJUm91dGVQcm9wcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVDb21wb25lbnRQcm9wcyB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAnJydmYS1jYWInLCcsJwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>fa-group
   fa-h-square
   fa-hacker-news
@@ -828,20 +854,8 @@ fa-youtube
 fa-youtube-play
 fa-youtube-square</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzTmFtZT0iZmFzIGZhLXVzZXIiIC8+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPXtjb252ZXJzYXRpb24udGh1bWJuYWlsVXJsfSBjbGFzc05hbWU9IkNvbnZlcnNhdGlvbkxpc3RJdGVtX3RodW1ibmFpbCIgLz4K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxpIGNsYXNzTmFtZT0iZmFzIGZhLXVzZXIiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDxpIGNsYXNzTmFtZT0iZmFzIGZhLXVzZXIiIC8+Cg==</text>
