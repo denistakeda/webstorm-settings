@@ -16,7 +16,6 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/communities/screens/CommunitySettingsScreen/CommunitySettingsScreen.container.ts" timestamp="1520494103452" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/layouts/Authentication/AuthenticationLayout.tsx" timestamp="1516355868232">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="6" column="1" />
@@ -118,7 +117,6 @@
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/community/screens/CommunitySettingsScreen/CommunitySettingsScreen.component.tsx" timestamp="1520498510212" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/bookmarks/components/BookmarkLink/BookmarkLink.component.tsx" timestamp="1518158843379">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="2" column="8" />
@@ -131,7 +129,6 @@
         <mark key="^" line="137" column="4" />
         <mark key="." line="137" column="4" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/community/screens/InviteNewMembersScreen/InviteNewMembersScreen.container.ts" timestamp="1520494894817" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/sagas/CreateMessageSaga.ts" timestamp="1516970373303">
         <mark key="[" line="23" column="53" />
         <mark key="]" line="23" column="59" />
@@ -210,6 +207,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-service-community-landingpage/src/client/pages/CommunityLandingPage/CommunityLandingPage.component.tsx" timestamp="1521300296664">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+        <mark key="^" line="1" column="61" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520604388225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
@@ -222,13 +225,16 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-service-community-landingpage/src/client/pages/CommunityLandingPage/CommunityLandingPage.scss" timestamp="1521300374886">
+        <mark key="[" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/new-app/components/ConversationListItem/getRandomIcon.ts" timestamp="1519997497831">
         <mark key="[" line="331" column="2" />
         <mark key="]" line="339" column="25" />
         <mark key="^" line="339" column="25" />
         <mark key="." line="339" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1520600123019">
+      <file name="/GraphQL.result.json" timestamp="1521300018401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -360,8 +366,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW52aXRlQ29kZVR5cGVuYW1lIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -393,31 +399,31 @@
         <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPXtMT0dJTl9VUkx9IGNvbXBvbmVudD17TG9naW5TY3JlZW59IC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0Q3VycmVudFVzZXJJbmZvLCBJVXNlckluZm8gfSBmcm9tICdAbW9kdWxlcy9hdXRoZW50aWNhdGlvbi9zZXJ2aWNlcy9nZXRDdXJyZW50VXNlckluZm8nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJJbmZvOiBJVXNlckluZm8gPSB5aWVsZCBjYWxsKGdldEN1cnJlbnRVc2VySW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy53ZWxjb21lTGFiZWx9PnsnU29tZW9uZSBpcyBsb29raW5nIGZvciB5b3UhJ308L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy53ZWxjb21lTGFiZWx9PnsnUGxlYXNlIGpvaW4gdGhlIG90aGVyIHN0dWRlbnRzIGluJ308L2Rpdj4KICAgICAgPEhlYWRlclRleHQgdGV4dD17Y29tbXVuaXR5Lm5hbWV9IC8+CiAgICAgIDxCbHVlQnV0dG9uCiAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXMuam9pbkJ1dHRvbn0KICAgICAgICBkaXNhYmxlZD17IWNvbW11bml0eS5wZXJtaXNzaW9ucy5jYW5Kb2luQ29tbXVuaXR5fQogICAgICAgIG9uQ2xpY2s9eygpID0+IHByb3BzLm5hdmlnYXRlVG8uc2lnblVwV2l0aG91dENvZGUoY29tbXVuaXR5SWQpfT4KICAgICAgICBKb2luCiAgICAgIDwvQmx1ZUJ1dHRvbj4KICAgICAge3JlbmRlcklmKGNvbW11bml0eS5wZXJtaXNzaW9ucy5jYW5Kb2luQ29tbXVuaXR5KSgoKSA9PiAoCiAgICAgICAgPERpc2NsYWltZXIgY29tbXVuaXR5TmFtZT17Y29tbXVuaXR5Lm5hbWV9IC8+CiAgICAgICkpfQogICAgICB7cmVuZGVySWYoIWNvbW11bml0eS5wZXJtaXNzaW9ucy5jYW5Kb2luQ29tbXVuaXR5KSgoKSA9PiA8VW5hYmxlVG9Kb2luTWVzc2FnZSAvPil9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXNlckluZm8uaWQsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0Q3VycmVudFVzZXJJbmZvLCBJVXNlckluZm8gfSBmcm9tICdAbW9kdWxlcy9hdXRoZW50aWNhdGlvbi9zZXJ2aWNlcy9nZXRDdXJyZW50VXNlckluZm8nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXJsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJJbmZvOiBJVXNlckluZm8gPSB5aWVsZCBjYWxsKGdldEN1cnJlbnRVc2VySW5mbyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW52aXRlcklkCg==</text>
+        <text encoding="base64">ICAgICAgdXNlckluZm8uaWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29kZQo=</text>
+        <text encoding="base64">ICAgICAgdXJsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWQK</text>
+        <text encoding="base64">ICAgICAgaW52aXRlcklkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgX190eXBlbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgY29kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
