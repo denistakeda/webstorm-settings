@@ -207,13 +207,13 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-service-community-landingpage/src/client/pages/CommunityLandingPage/CommunityLandingPage.component.tsx" timestamp="1521300296664">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="1" column="61" />
-        <mark key="." line="1" column="61" />
-        <mark key="^" line="1" column="61" />
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-service-community-landingpage/src/client/pages/CommunityLandingPage/CommunityLandingPage.component.tsx" timestamp="1521301433211">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520604388225">
+      <file name="/Dummy.txt" timestamp="1521301517433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="44" />
@@ -366,8 +366,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -390,7 +390,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW52aXRlQ29kZVR5cGVuYW1lIA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>NavigateTo.ho</text>
