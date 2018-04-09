@@ -86,6 +86,12 @@
         <mark key="." line="5" column="87" />
         <mark key="^" line="5" column="87" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/chat/screens/ChatArtifactsScreen/ChatArtifactsScreen.container.tsx" timestamp="1523292500562">
+        <mark key="[" line="9" column="73" />
+        <mark key="]" line="9" column="72" />
+        <mark key="^" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/FileMessagePart/FileMessagePart.graphql.ts" timestamp="1516972263426">
         <mark key="[" line="62" column="25" />
         <mark key="]" line="62" column="25" />
