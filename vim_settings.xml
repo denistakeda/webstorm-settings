@@ -140,7 +140,6 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/user/screens/MeScreen/MeScreen.scene.tsx" timestamp="1523254373680" />
       <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/user/UserStack.tsx" timestamp="1523254781572">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="9" column="84" />
@@ -255,7 +254,7 @@
         <mark key="^" line="339" column="25" />
         <mark key="." line="339" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1523254157485">
+      <file name="/GraphQL.result.json" timestamp="1523293140246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -365,7 +364,6 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/chat/components/Chat/Chat.graphql.ts" timestamp="1523290230371" />
     </filemarks>
     <jumps>
       <jump line="152" column="6" filename="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/authentication/sagas/AuthenticationFlowSaga.spec.ts" />
