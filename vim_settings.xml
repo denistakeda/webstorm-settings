@@ -110,6 +110,11 @@
         <mark key="." line="27" column="50" />
         <mark key="^" line="27" column="50" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-web/package.json" timestamp="1523683755767">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="31" />
+        <mark key="." line="185" column="0" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/onboarding/actions/OnboardingActions.ts" timestamp="1516347433882">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -157,6 +162,10 @@
         <mark key="]" line="23" column="59" />
         <mark key="." line="23" column="59" />
         <mark key="^" line="23" column="59" />
+      </file>
+      <file name="/package.json" timestamp="1523683737929">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="31" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/ChatMessage/ChatMessage.component.tsx" timestamp="1518158684775">
         <mark key="[" line="43" column="53" />
@@ -254,7 +263,7 @@
         <mark key="^" line="339" column="25" />
         <mark key="." line="339" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1523293140246">
+      <file name="/GraphQL.result.json" timestamp="1523683655573">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
@@ -386,8 +395,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>`${styles.reactTelInput} ${reactTelInputStyles['react-tel-input']}`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJyZWFjdC1tYXJrZG93biI6ICJeMy4yLjAiLAo=</text>
       </register>
       <register name="f" type="4">
         <keys>
@@ -416,7 +425,7 @@
         <text>NavigateTo.ho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxSb3V0ZSBwYXRoPXtMT0dJTl9VUkx9IGNvbXBvbmVudD17TG9naW5TY3JlZW59IC8+Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1tYXJrZG93biI6ICJeMy4yLjAiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgcmVhY3RUZWxJbnB1dFN0eWxlcyBmcm9tICcuLi8uLi9zdHlsZXMvUmVhY3RUZWxJbnB1dC5zY3NzJzsK</text>
