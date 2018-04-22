@@ -145,6 +145,12 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/system/screens/TermsScreen/TermsScreen.styles.ts" timestamp="1524416136339">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="69" column="3" />
+        <mark key="^" line="69" column="3" />
+        <mark key="." line="69" column="3" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/user/UserStack.tsx" timestamp="1523254781572">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="9" column="84" />
@@ -209,6 +215,9 @@
         <mark key="^" line="4" column="70" />
         <mark key="." line="4" column="70" />
       </file>
+      <file name="/JavaScript Console" timestamp="1524416095323">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.component.tsx" timestamp="1516972092284">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="19" />
@@ -226,12 +235,6 @@
         <mark key="]" line="5" column="26" />
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/EdtechFoundry/differ-mobile/typescript/src/modules/user/screens/MeScreen/MeScreen.tsx" timestamp="1523255364746">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="30" />
-        <mark key="^" line="141" column="30" />
-        <mark key="." line="141" column="30" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/components/FilePreview/components/UnhandledFilePreview.component.tsx" timestamp="1518518596372">
         <mark key="[" line="25" column="11" />
@@ -263,7 +266,7 @@
         <mark key="^" line="339" column="25" />
         <mark key="." line="339" column="25" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1523683655573">
+      <file name="/GraphQL.result.json" timestamp="1524415975581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/EdtechFoundry/differ-web/src/scripts/modules/chat/components/LinkMessagePart/LinkMessagePart.container.tsx" timestamp="1516973278367">
