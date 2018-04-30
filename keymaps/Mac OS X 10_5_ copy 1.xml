@@ -1,5 +1,1 @@
-<keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
-  <action id="Tool_External Tools_Open in Emacs">
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
-  </action>
-</keymap>
+<keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+" />
